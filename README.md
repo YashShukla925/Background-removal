@@ -1,4 +1,4 @@
-![Screenshot 2025-01-29 180349](https://github.com/user-attachments/assets/e086eeac-f86b-42cc-a8e2-fa313663fa9d)# Background Removal Using IS-Net
+## Background Removal Using IS-Net
 
 This project provides a background removal tool using the IS-Net model, where users can upload an image and get the processed result with the background removed.
 
